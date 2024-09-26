@@ -2,7 +2,7 @@
   "name": "compean_gitpages",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://danielcomac.github.io/compean_gitpages",
+  "homepage": "https://darling-peony-c93838.netlify.app/",
   "type": "module",
   "scripts": {
   "build": "vite build",
